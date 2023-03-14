@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 find . -empty -printf "%f\n"
+=======
+find . -empty |  ls -la
+>>>>>>> 3a8d5a844d77a3977b52c4548a3fb755bb5d7794
